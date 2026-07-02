@@ -4,7 +4,7 @@
 
 <main>
     <div class="text-content">
-        <h1>Alex Herčko</h1>
+        <h1>About</h1>
         <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt erat id felis
             semper, sed semper orci pulvinar. Vivamus arcu nibh, dignissim at scelerisque sed,

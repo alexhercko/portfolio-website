@@ -1,0 +1,31 @@
+:root {
+    --color-bg: #0e0e0e;
+    --color-text: #ebebeb;
+    --color-text-secondary: #b4b4b4;
+}
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Lexend';
+    src: url(/fonts/Lexend.woff2) format('woff2') tech(variations);
+    font-weight: 300 900;
+    font-display: swap;
+}
+
+html {
+    font-size: 16px;
+    font-family: 'Lexend', sans-serif;
+    font-weight: 400;
+}
+
+body {
+    background-color: var(--color-bg);
+    color: var(--color-text);
+}
